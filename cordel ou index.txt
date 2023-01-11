@@ -1,0 +1,5 @@
+O arquivo cordel.html e o cordel.css foram feitos por mim
+sem acompanhar as aulas cujo o professor explicava passo
+a passo sobre como fazer o site.
+Já o index.html e o index.css foram feitos seguindo as 
+explicaçoes do professor.
