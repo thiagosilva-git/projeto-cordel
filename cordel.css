@@ -12,14 +12,16 @@
 font-family: 'Sriracha', cursive; */
 
 header{
-    background-color: black;
+    background-image: linear-gradient(black, #363635);
     color: white;
     text-align: center;
     padding: 20px;
+    text-shadow: 2px 2px 0px black;
 }
 
 header p{
     padding-bottom: 50px;
+    text-shadow: none;
 }
 
 a{
@@ -102,4 +104,8 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
+}
+
+footer a{
+    color: #8A705E;
 }
